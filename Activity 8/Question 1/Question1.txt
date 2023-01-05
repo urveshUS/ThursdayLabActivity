@@ -1,0 +1,18 @@
+Package com.Question1;
+
+public class Product {    
+
+	int Pid;          
+	String Pname;
+	int price;
+	public Product(int pid, String Pname, int price) { 
+//creating constructor
+		super();
+		Pid = pid;
+		Pname = pname;
+		this.price = price;
+	}
+
+
+
+}
